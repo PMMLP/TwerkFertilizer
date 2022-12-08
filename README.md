@@ -44,7 +44,7 @@ version: 1.0.0
 
 # Donate
 
-[Patreon](patreon.com/Matze998)
+[Patreon](https://patreon.com/Matze998)
 
 # Credits
 Made by Matze, Dezember 2022
