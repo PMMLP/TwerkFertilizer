@@ -18,8 +18,8 @@
 
 # Screenshots
 
-[Twerking](https://github.com/PMMLP/Twerk-Fertilizer/blob/V1.0.0/images/twearking_front.png)
-[Twerking](https://github.com/PMMLP/Twerk-Fertilizer/blob/V1.0.0/images/twearking_back.png)
+![Twerking](https://github.com/PMMLP/Twerk-Fertilizer/blob/V1.0.0/images/twearking_front.png)
+![Twerking](https://github.com/PMMLP/Twerk-Fertilizer/blob/V1.0.0/images/twearking_back.png)
 
 # Config
 
